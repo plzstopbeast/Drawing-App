@@ -17,7 +17,7 @@ public class DrawingApp {
 		sb.append(symbol);
 	}
 	   if (i != maxRows -1)
-	   sb.append('\n'); //Adds a new line 
+	   sb.append('\n'); 
 	}
 	return sb.toString();
 	}
